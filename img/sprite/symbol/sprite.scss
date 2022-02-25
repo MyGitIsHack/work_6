@@ -1,0 +1,680 @@
+.icon {
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	fill: currentColor;
+}
+
+
+#SVG_container{
+	position: absolute;
+	height: 0;
+	width: 0;
+}
+
+#SVG_container svg{
+	position: absolute;
+	height: 0;
+	width: 0;
+}
+
+.icon-acceleration {
+	font-size:(24/10)*1rem;
+	width:(24/24)*1em;
+}
+.icon-alert {
+	font-size:(17/10)*1rem;
+	width:(17/17)*1em;
+}
+.icon-app {
+	font-size:(44/10)*1rem;
+	width:(58/44)*1em;
+}
+.icon-arrow_left {
+	font-size:(268.833/10)*1rem;
+	width:(268.833/268.833)*1em;
+}
+.icon-arrow_long_top_rigth {
+	font-size:(384/10)*1rem;
+	width:(384/384)*1em;
+}
+.icon-arrow_loop {
+	font-size:(19/10)*1rem;
+	width:(18/19)*1em;
+}
+.icon-arrow_right {
+	font-size:(14/10)*1rem;
+	width:(16/14)*1em;
+}
+.icon-arrow_top_right {
+	font-size:(9/10)*1rem;
+	width:(9/9)*1em;
+}
+.icon-attention {
+	font-size:(20/10)*1rem;
+	width:(20/20)*1em;
+}
+.icon-basket {
+	font-size:(15/10)*1rem;
+	width:(12/15)*1em;
+}
+.icon-bell {
+	font-size:(23/10)*1rem;
+	width:(20/23)*1em;
+}
+.icon-bell_crop {
+	font-size:(23/10)*1rem;
+	width:(20/23)*1em;
+}
+.icon-bell_fill {
+	font-size:(16/10)*1rem;
+	width:(14/16)*1em;
+}
+.icon-bell_hollow {
+	font-size:(16/10)*1rem;
+	width:(14/16)*1em;
+}
+.icon-benefit_1 {
+	font-size:(60/10)*1rem;
+	width:(61/60)*1em;
+}
+.icon-benefit_2 {
+	font-size:(60/10)*1rem;
+	width:(61/60)*1em;
+}
+.icon-benefit_3 {
+	font-size:(60/10)*1rem;
+	width:(61/60)*1em;
+}
+.icon-benefit_4 {
+	font-size:(60/10)*1rem;
+	width:(61/60)*1em;
+}
+.icon-blot {
+	font-size:(15/10)*1rem;
+	width:(14/15)*1em;
+}
+.icon-book {
+	font-size:(24/10)*1rem;
+	width:(24/24)*1em;
+}
+.icon-bottom_1 {
+	font-size:(18/10)*1rem;
+	width:(32/18)*1em;
+}
+.icon-bottom_2 {
+	font-size:(18/10)*1rem;
+	width:(32/18)*1em;
+}
+.icon-briefcase_purple {
+	font-size:(40/10)*1rem;
+	width:(40/40)*1em;
+}
+.icon-building {
+	font-size:(24/10)*1rem;
+	width:(24/24)*1em;
+}
+.icon-calc_color {
+	font-size:(40/10)*1rem;
+	width:(32/40)*1em;
+}
+.icon-calendar {
+	font-size:(19/10)*1rem;
+	width:(20/19)*1em;
+}
+.icon-camera {
+	font-size:(20/10)*1rem;
+	width:(21/20)*1em;
+}
+.icon-card {
+	font-size:(48/10)*1rem;
+	width:(48/48)*1em;
+}
+.icon-card-pay {
+	font-size:(12/10)*1rem;
+	width:(14/12)*1em;
+}
+.icon-case {
+	font-size:(17/10)*1rem;
+	width:(16/17)*1em;
+}
+.icon-chart-up {
+	font-size:(61/10)*1rem;
+	width:(60/61)*1em;
+}
+.icon-chat {
+	font-size:(61/10)*1rem;
+	width:(60/61)*1em;
+}
+.icon-check {
+	font-size:(556/10)*1rem;
+	width:(556/556)*1em;
+}
+.icon-check-color {
+	font-size:(79/10)*1rem;
+	width:(75/79)*1em;
+}
+.icon-check-purple {
+	font-size:(20/10)*1rem;
+	width:(20/20)*1em;
+}
+.icon-check_round {
+	font-size:(60/10)*1rem;
+	width:(60/60)*1em;
+}
+.icon-check_thin {
+	font-size:(11/10)*1rem;
+	width:(14/11)*1em;
+}
+.icon-check_two {
+	font-size:(10/10)*1rem;
+	width:(17/10)*1em;
+}
+.icon-circle-check {
+	font-size:(24/10)*1rem;
+	width:(24/24)*1em;
+}
+.icon-circle-fail {
+	font-size:(20/10)*1rem;
+	width:(20/20)*1em;
+}
+.icon-circles_purple {
+	font-size:(40/10)*1rem;
+	width:(40/40)*1em;
+}
+.icon-clock {
+	font-size:(60/10)*1rem;
+	width:(60/60)*1em;
+}
+.icon-clocks {
+	font-size:(20/10)*1rem;
+	width:(21/20)*1em;
+}
+.icon-close {
+	font-size:(18/10)*1rem;
+	width:(18/18)*1em;
+}
+.icon-coat_of_arms {
+	font-size:(36/10)*1rem;
+	width:(36/36)*1em;
+}
+.icon-comp {
+	font-size:(48/10)*1rem;
+	width:(48/48)*1em;
+}
+.icon-diagnostics {
+	font-size:(61/10)*1rem;
+	width:(60/61)*1em;
+}
+.icon-diagram {
+	font-size:(15/10)*1rem;
+	width:(15/15)*1em;
+}
+.icon-doc {
+	font-size:(16/10)*1rem;
+	width:(16/16)*1em;
+}
+.icon-doc_lines {
+	font-size:(21/10)*1rem;
+	width:(17/21)*1em;
+}
+.icon-docs {
+	font-size:(60/10)*1rem;
+	width:(60/60)*1em;
+}
+.icon-docs_purple {
+	font-size:(40/10)*1rem;
+	width:(40/40)*1em;
+}
+.icon-down {
+	font-size:(8/10)*1rem;
+	width:(14/8)*1em;
+}
+.icon-down_bold {
+	font-size:(10/10)*1rem;
+	width:(16/10)*1em;
+}
+.icon-download {
+	font-size:(13/10)*1rem;
+	width:(12/13)*1em;
+}
+.icon-education {
+	font-size:(50/10)*1rem;
+	width:(50/50)*1em;
+}
+.icon-error_flash {
+	font-size:(142/10)*1rem;
+	width:(64/142)*1em;
+}
+.icon-events {
+	font-size:(24/10)*1rem;
+	width:(24/24)*1em;
+}
+.icon-exit {
+	font-size:(16/10)*1rem;
+	width:(19/16)*1em;
+}
+.icon-external_link {
+	font-size:(20/10)*1rem;
+	width:(20/20)*1em;
+}
+.icon-eye {
+	font-size:(60/10)*1rem;
+	width:(61/60)*1em;
+}
+.icon-facebook {
+	font-size:(14/10)*1rem;
+	width:(6/14)*1em;
+}
+.icon-feedback-gears {
+	font-size:(400/10)*1rem;
+	width:(399/400)*1em;
+}
+.icon-feedback-lamp {
+	font-size:(385/10)*1rem;
+	width:(399/385)*1em;
+}
+.icon-file {
+	font-size:(20/10)*1rem;
+	width:(21/20)*1em;
+}
+.icon-finance {
+	font-size:(17/10)*1rem;
+	width:(16/17)*1em;
+}
+.icon-fire {
+	font-size:(22/10)*1rem;
+	width:(18/22)*1em;
+}
+.icon-flash_angle_color {
+	font-size:(45/10)*1rem;
+	width:(45/45)*1em;
+}
+.icon-flash_purple {
+	font-size:(40/10)*1rem;
+	width:(40/40)*1em;
+}
+.icon-gears {
+	font-size:(24/10)*1rem;
+	width:(24/24)*1em;
+}
+.icon-gift {
+	font-size:(45/10)*1rem;
+	width:(42/45)*1em;
+}
+.icon-gos {
+	font-size:(48/10)*1rem;
+	width:(49/48)*1em;
+}
+.icon-gos_logo_color {
+	font-size:(30/10)*1rem;
+	width:(27/30)*1em;
+}
+.icon-gos_logo_white {
+	font-size:(30/10)*1rem;
+	width:(27/30)*1em;
+}
+.icon-gos_purple {
+	font-size:(17/10)*1rem;
+	width:(16/17)*1em;
+}
+.icon-gos_yellow {
+	font-size:(46/10)*1rem;
+	width:(41/46)*1em;
+}
+.icon-graph {
+	font-size:(19/10)*1rem;
+	width:(21/19)*1em;
+}
+.icon-graphic {
+	font-size:(17/10)*1rem;
+	width:(16/17)*1em;
+}
+.icon-grid {
+	font-size:(18/10)*1rem;
+	width:(18/18)*1em;
+}
+.icon-hand-up {
+	font-size:(17/10)*1rem;
+	width:(16/17)*1em;
+}
+.icon-headset-headphones {
+	font-size:(60/10)*1rem;
+	width:(61/60)*1em;
+}
+.icon-home {
+	font-size:(16/10)*1rem;
+	width:(16/16)*1em;
+}
+.icon-house {
+	font-size:(60/10)*1rem;
+	width:(61/60)*1em;
+}
+.icon-house_color {
+	font-size:(38/10)*1rem;
+	width:(45/38)*1em;
+}
+.icon-info_round {
+	font-size:(17/10)*1rem;
+	width:(17/17)*1em;
+}
+.icon-lamp_purple {
+	font-size:(40/10)*1rem;
+	width:(40/40)*1em;
+}
+.icon-left {
+	font-size:(20/10)*1rem;
+	width:(12/20)*1em;
+}
+.icon-letter {
+	font-size:(48/10)*1rem;
+	width:(48/48)*1em;
+}
+.icon-libra {
+	font-size:(19/10)*1rem;
+	width:(22/19)*1em;
+}
+.icon-libra-purple {
+	font-size:(32/10)*1rem;
+	width:(32/32)*1em;
+}
+.icon-lk-credit {
+	font-size:(61/10)*1rem;
+	width:(63/61)*1em;
+}
+.icon-lk-reg-busines {
+	font-size:(48/10)*1rem;
+	width:(51/48)*1em;
+}
+.icon-lk-rs {
+	font-size:(43/10)*1rem;
+	width:(45/43)*1em;
+}
+.icon-lk-rs_copy {
+	font-size:(43/10)*1rem;
+	width:(45/43)*1em;
+}
+.icon-lk-selection-ofp {
+	font-size:(44/10)*1rem;
+	width:(24/44)*1em;
+}
+.icon-lk-selection-sn {
+	font-size:(44/10)*1rem;
+	width:(36/44)*1em;
+}
+.icon-lk-ukep {
+	font-size:(56/10)*1rem;
+	width:(46/56)*1em;
+}
+.icon-load {
+	font-size:(39/10)*1rem;
+	width:(36/39)*1em;
+}
+.icon-location {
+	font-size:(16/10)*1rem;
+	width:(16/16)*1em;
+}
+.icon-lock {
+	font-size:(16/10)*1rem;
+	width:(12/16)*1em;
+}
+.icon-logo {
+	font-size:(24/10)*1rem;
+	width:(109/24)*1em;
+}
+.icon-long_top_right {
+	font-size:(24/10)*1rem;
+	width:(24/24)*1em;
+}
+.icon-mail {
+	font-size:(20/10)*1rem;
+	width:(20/20)*1em;
+}
+.icon-megafon {
+	font-size:(59/10)*1rem;
+	width:(69/59)*1em;
+}
+.icon-megaphone {
+	font-size:(41/10)*1rem;
+	width:(45/41)*1em;
+}
+.icon-message {
+	font-size:(19/10)*1rem;
+	width:(18/19)*1em;
+}
+.icon-microphone {
+	font-size:(20/10)*1rem;
+	width:(14/20)*1em;
+}
+.icon-news {
+	font-size:(14/10)*1rem;
+	width:(14/14)*1em;
+}
+.icon-note {
+	font-size:(48/10)*1rem;
+	width:(48/48)*1em;
+}
+.icon-note-ball {
+	font-size:(62/10)*1rem;
+	width:(62/62)*1em;
+}
+.icon-odno {
+	font-size:(14/10)*1rem;
+	width:(8/14)*1em;
+}
+.icon-only_plus {
+	font-size:(14/10)*1rem;
+	width:(14/14)*1em;
+}
+.icon-pencil {
+	font-size:(13/10)*1rem;
+	width:(13/13)*1em;
+}
+.icon-pers {
+	font-size:(48/10)*1rem;
+	width:(49/48)*1em;
+}
+.icon-pers_purple {
+	font-size:(17/10)*1rem;
+	width:(16/17)*1em;
+}
+.icon-photo {
+	font-size:(21/10)*1rem;
+	width:(21/21)*1em;
+}
+.icon-pin {
+	font-size:(60/10)*1rem;
+	width:(61/60)*1em;
+}
+.icon-planet {
+	font-size:(60/10)*1rem;
+	width:(61/60)*1em;
+}
+.icon-play {
+	font-size:(17/10)*1rem;
+	width:(16/17)*1em;
+}
+.icon-player {
+	font-size:(14/10)*1rem;
+	width:(18/14)*1em;
+}
+.icon-plus {
+	font-size:(17/10)*1rem;
+	width:(18/17)*1em;
+}
+.icon-profile {
+	font-size:(20/10)*1rem;
+	width:(17/20)*1em;
+}
+.icon-quote {
+	font-size:(24/10)*1rem;
+	width:(34/24)*1em;
+}
+.icon-rectangles {
+	font-size:(16/10)*1rem;
+	width:(16/16)*1em;
+}
+.icon-right {
+	font-size:(20/10)*1rem;
+	width:(12/20)*1em;
+}
+.icon-robot-head {
+	font-size:(61/10)*1rem;
+	width:(60/61)*1em;
+}
+.icon-rocket {
+	font-size:(60/10)*1rem;
+	width:(60/60)*1em;
+}
+.icon-rupor {
+	font-size:(17/10)*1rem;
+	width:(16/17)*1em;
+}
+.icon-scales {
+	font-size:(60/10)*1rem;
+	width:(61/60)*1em;
+}
+.icon-scales_2 {
+	font-size:(48/10)*1rem;
+	width:(48/48)*1em;
+}
+.icon-search {
+	font-size:(24/10)*1rem;
+	width:(24/24)*1em;
+}
+.icon-settings {
+	font-size:(17/10)*1rem;
+	width:(16/17)*1em;
+}
+.icon-settings-2 {
+	font-size:(16/10)*1rem;
+	width:(18/16)*1em;
+}
+.icon-settings_purple {
+	font-size:(40/10)*1rem;
+	width:(40/40)*1em;
+}
+.icon-shield-s {
+	font-size:(16/10)*1rem;
+	width:(12/16)*1em;
+}
+.icon-speakers {
+	font-size:(24/10)*1rem;
+	width:(24/24)*1em;
+}
+.icon-speedometer {
+	font-size:(15/10)*1rem;
+	width:(19/15)*1em;
+}
+.icon-star {
+	font-size:(15/10)*1rem;
+	width:(15/15)*1em;
+}
+.icon-step_1 {
+	font-size:(46/10)*1rem;
+	width:(41/46)*1em;
+}
+.icon-step_2 {
+	font-size:(44/10)*1rem;
+	width:(44/44)*1em;
+}
+.icon-step_3 {
+	font-size:(44/10)*1rem;
+	width:(32/44)*1em;
+}
+.icon-sticker {
+	font-size:(76/10)*1rem;
+	width:(359/76)*1em;
+}
+.icon-student-hat {
+	font-size:(17/10)*1rem;
+	width:(20/17)*1em;
+}
+.icon-subway-write {
+	font-size:(60/10)*1rem;
+	width:(61/60)*1em;
+}
+.icon-suitcase {
+	font-size:(19/10)*1rem;
+	width:(21/19)*1em;
+}
+.icon-suitcase-plus {
+	font-size:(57/10)*1rem;
+	width:(62/57)*1em;
+}
+.icon-suitcase_2 {
+	font-size:(60/10)*1rem;
+	width:(61/60)*1em;
+}
+.icon-suitcase_3 {
+	font-size:(48/10)*1rem;
+	width:(48/48)*1em;
+}
+.icon-suitcase_color {
+	font-size:(37/10)*1rem;
+	width:(41/37)*1em;
+}
+.icon-suitcases {
+	font-size:(57/10)*1rem;
+	width:(75/57)*1em;
+}
+.icon-time {
+	font-size:(14/10)*1rem;
+	width:(14/14)*1em;
+}
+.icon-top_1 {
+	font-size:(18/10)*1rem;
+	width:(32/18)*1em;
+}
+.icon-top_2 {
+	font-size:(18/10)*1rem;
+	width:(32/18)*1em;
+}
+.icon-tutoring {
+	font-size:(24/10)*1rem;
+	width:(24/24)*1em;
+}
+.icon-twitter {
+	font-size:(12/10)*1rem;
+	width:(14/12)*1em;
+}
+.icon-two-user {
+	font-size:(80/10)*1rem;
+	width:(79/80)*1em;
+}
+.icon-up {
+	font-size:(8/10)*1rem;
+	width:(14/8)*1em;
+}
+.icon-up_bold {
+	font-size:(10/10)*1rem;
+	width:(16/10)*1em;
+}
+.icon-usb {
+	font-size:(48/10)*1rem;
+	width:(49/48)*1em;
+}
+.icon-user {
+	font-size:(17/10)*1rem;
+	width:(14/17)*1em;
+}
+.icon-vk {
+	font-size:(11/10)*1rem;
+	width:(17/11)*1em;
+}
+.icon-wallet {
+	font-size:(16/10)*1rem;
+	width:(20/16)*1em;
+}
+.icon-weight {
+	font-size:(17/10)*1rem;
+	width:(16/17)*1em;
+}
+.icon-wifi {
+	font-size:(60/10)*1rem;
+	width:(61/60)*1em;
+}
+.icon-world-grid {
+	font-size:(50/10)*1rem;
+	width:(51/50)*1em;
+}
